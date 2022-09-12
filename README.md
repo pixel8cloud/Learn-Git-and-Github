@@ -1,2 +1,2 @@
-This is the best channel for developers
+This is the best channel for student
 
