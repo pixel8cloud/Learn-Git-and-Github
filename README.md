@@ -1,2 +1,3 @@
-This is the best channel for student
+This is the best channel for everyone
+
 
