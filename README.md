@@ -1,4 +1,4 @@
-<h2>Getting started with Git and GithHub</h2>
+<h2>Getting started with Git and GitHub</h2>
 <p>You will find <a href="https://github.com/prakhar-5447/Learn-Git-and-Github/tree/main/Introduction">Introduction to Git and GitHub</a> in this first section of this repository. Let's start with Downloading <a href="https://git-scm.com/downloads">Git</a>.then , install git to your preferred location. and type
 <kbd>git --version</kbd> to check whether it installed correctly or not.</p>
 
