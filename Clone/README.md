@@ -2,7 +2,7 @@
 <p>To contribute to someone's project or repository, you need to clone his repository (repo). In simple words clone means copy.</p>
 
 <h2>How to clone a repository</h2>
-Step to create your first repository<ul>
+<ul>
   <li><b>Open the repository you want to copy</b></li>
   <li><b>Fork the repository by clicking the option in <i>Top Right Corner</i></b></li>
   <li><b>Now,Copy the link</b></li>
