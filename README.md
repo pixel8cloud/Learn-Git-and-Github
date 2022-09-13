@@ -27,6 +27,6 @@ Step to create your first repository<ul>
   <li><b>Run<kbd>git add {file_name}</kbd> to staged the changes</b> Note: all changes are marked as unstaged</li>
   <li><b>Run <kbd>git commit -m"{commit_message_here}"</kbd>to commit and write a short description about the changes</b></li>
   <li><b>Now, Run<kbd>git branch -M main</kbd>to create a branch</b></li>
-  <li><b>Run <kbd>git remaote add origin "{paste_url_of_repository}"</kbd>to commit and write a short description about the changes</b></li>
+  <li><b>Run <kbd>git remote add origin "{paste_url_of_repository}"</kbd>to connect this local repository to GitHub repository</b></li>
   <li><b>Now, Run<kbd>git push -u origin main</kbd> to push this changes to GitHub</b></li>
 </ul>
