@@ -14,7 +14,7 @@ Run this commands to configure git
 <h2>Create Repository</h2>
 Step to create your first repository<ul>
   <li><b>Open your GitHub</b></li>
-  <li><b>Click on Create New Rpository</b></li>
+  <li><b>Click on Create New Repository</b></li>
   <img width="50%"  src="./Images/Repo.png">
    <li><b>Name the Repo and create repository</b></li>
   <img width="50%" src="./Images/Create.png">
@@ -24,9 +24,9 @@ Step to create your first repository<ul>
   <li><b>Open folder in VS Code</b></li>
   <li><b>Run <kbd>git init</kbd> which initialize this folder as git repostiory</b></li>
   <li><b>Now make a file README.md and write something about this project or repository</b></li>
-  <li><b>Run<kbd>git add {file_name}</kbd> to staged the changes</b> Note: all changes are marked as unstaged</li>
-  <li><b>Run <kbd>git commit -m"{commit_message_here}"</kbd>to commit and write a short description about the changes</b></li>
-  <li><b>Now, Run<kbd>git branch -M main</kbd>to create a branch</b></li>
-  <li><b>Run <kbd>git remote add origin "{paste_url_of_repository}"</kbd>to connect this local repository to GitHub repository</b></li>
-  <li><b>Now, Run<kbd>git push -u origin main</kbd> to push this changes to GitHub</b></li>
+  <li><b>Run <kbd>git add {file_name}</kbd> to staged the changes</b> Note: all changes are marked as unstaged</li>
+  <li><b>Run <kbd>git commit -m"{commit_message_here}"</kbd> to commit and write a short description about the changes</b></li>
+  <li><b>Now, Run <kbd>git branch -M main</kbd> to create a branch</b></li>
+  <li><b>Run <kbd>git remote add origin "{paste_url_of_repository}"</kbd> to connect this local repository to GitHub repository</b></li>
+  <li><b>Now, Run <kbd>git push -u origin main</kbd> to push this changes to GitHub</b></li>
 </ul>
