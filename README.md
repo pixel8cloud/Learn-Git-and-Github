@@ -4,6 +4,7 @@
 
 
 <h2>Config Git</h2>
+<h2>-</h2>
 Run this commands to configure git
 <ul>
   <li><kbd>git config --global --user.name {<i>YOUR_GITHUB_USERNAME</i>}</kbd></li>
